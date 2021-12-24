@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+
+import { WalletModalButton } from "@solana/wallet-adapter-react-ui";
 
 function App() {
   return (
